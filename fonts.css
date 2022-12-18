@@ -1,0 +1,62 @@
+body{
+    background-color:#111111;
+}
+
+h1{
+	color: #FFFFFF;
+	font-family: "Press Start 2P", "consolas", sans-serif;
+}
+.first_group{
+	color: #00FF73;
+	font-family: "consolas", sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: cyan dotted underline;
+	font-size: 18px;
+}
+
+#p2{
+    color: beige;
+    font-family: "Press Start 2P","consolas",sans-serif;
+    font-size: 20px;
+}
+
+#p1{
+    border-top-style:dashed;
+	border-bottom-style: dotted;
+	border-left-style:double;
+	border-left-width: 10px;
+	border-left-color: silver;
+    border-right-style: double;
+    border-right-width: 10px;
+    border-right-color: silver;
+}
+
+.second_group{
+    font-family: sans-serif,"consolas";
+    font-style: italic;
+    font-weight:600;
+    text-decoration: underline;
+    font-size:x-large;
+    background-color: rgb(110, 93, 93);
+    border-style:solid;
+    border-color: rgb(155, 155, 12);
+
+}
+
+.innerS1{
+    border-style:solid;
+	border-width: 5px;
+	border-color: gold;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+.innerS2{
+    border-style:solid;
+	border-width: 5px;
+	border-color: gold;
+	border-radius: 10px;
+	padding: 5px;
+
+}
