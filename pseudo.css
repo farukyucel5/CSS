@@ -1,0 +1,103 @@
+a:link{
+	color:rgb(128, 218, 12);
+}
+a:visited{
+	color:rgb(20, 33, 221);
+}
+a:hover{
+	color:tomato;
+}
+a:active{
+	color:yellow;
+}
+button:hover{
+	background-color: lightgrey;
+}
+button:active{
+	background-color: white;
+}
+/*
+li:nth-child(1){
+	background-color: yellow;
+}
+li:nth-child(even){
+	background-color: skyblue;
+}
+li:nth-child(odd){
+	background-color: powderblue;
+}
+*/
+.topList li:nth-child(2n){
+	background-color: rgb(255, 0, 0);
+}
+
+.topList li:nth-child(odd){
+	background-color: skyblue;
+}
+
+.topList li:nth-child(1){
+    
+    color: rgb(179, 179, 24);
+}
+
+
+
+
+
+
+/* -------- style.css --------  */
+
+p::first-letter{
+	font-size: 40px;
+	font-style: italic;
+}
+p::first-line{
+	color: skyblue;
+}
+#list1 li::before{
+	content: "✔";
+}
+#CSS::after{
+	content: "👈";
+}
+li::marker{
+	color: silver;
+}
+p::selection{
+	color: white;
+	background: black;
+}
+
+.Recently-Learned li::before{
+    content: "🔑";
+
+}
+
+.Recently-Learned li::after{
+    content: "🎃";
+}
+
+.Recently-Learned li::marker{
+    color: rgb(238, 110, 5);
+}
+
+.Recently-Learned p::selection{
+    color: rgb(146, 146, 35);
+    background-color:brown ;
+
+    
+
+}
+
+.Recently-Learned p::first-letter{
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(235, 235, 16);
+}
+
+.Recently-Learned p::first-line{
+    color: rgb(161, 161, 22);
+}
+
+
+
