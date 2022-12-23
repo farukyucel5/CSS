@@ -1,0 +1,19 @@
+body{
+	background-image: url("images/photo-1575372587186-5012f8886b4e.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	
+
+}
+h1{
+	background: linear-gradient(to right, rgb(20, 176, 238), rgb(131, 35, 35));
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+p{
+	background: linear-gradient(to right,rgb(19, 47, 58), rgb(126, 35, 35));
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}

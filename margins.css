@@ -1,0 +1,57 @@
+body{
+	margin: 0px;
+}
+#box1{
+	border: 5px solid;
+	width: 250px;
+	height: 250px;
+	font-size: 22px;
+	background: greenyellow;
+	/*
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+	margin-right: 50px;
+	
+	margin: 50px;
+	*/
+	margin-right: auto;
+	margin-left: auto;
+}
+#box2{
+	border: 5px solid;
+	width: 250px;
+	height: 250px;
+	font-size: 22px;
+	background: dodgerblue;
+}
+
+#p1{
+    border: 5px solid;
+	width: 500px;
+	height: 250px;
+	font-size: 22px;
+	background: beige;
+   
+    padding: 10px;
+}
+
+.faruk-box{
+    border: 5px solid;
+	width: 1000px;
+	height: 500px;
+	font-size: 22px;
+	background: beige;
+    padding-left: 10px;
+   
+}
+
+#p2{
+    border: 5px dashed;
+    width: 500px;
+	height: 150px;
+	font-size: 22px;
+    background: rgb(136, 136, 26);
+    
+    padding: 10px;
+}
